@@ -1,6 +1,8 @@
 Hulk DoS tool
 =============
 
+**[UPDATED TO BE COMPATIBLE WITH PYTHON3]**
+
 HULK DoS tool ported to Go language from Python. 
 Original Python utility by Barry Shteiman http://www.sectorix.com/2012/05/17/hulk-web-server-dos-tool/
 I just ported the code as is quick and dirty. Original functions names are keeped and original logic mostly keeped too.
